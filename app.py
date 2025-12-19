@@ -9,5 +9,5 @@ def home():
 def about():
     return 'About'
 
-if __name__ == "__name__"
+if __name__ == "__name__":
     app.run()        
